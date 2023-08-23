@@ -13,7 +13,7 @@ resource "google_storage_bucket" "central_eon_386920" {
   force_destroy = true
 }
 
-// Add more resources and configurations as needed
+// Add more resources and configurations as needed TEST COmmit NEw
 # Importing the existing resources into Terraform state
 terraform {
   required_version = ">= 0.12"
